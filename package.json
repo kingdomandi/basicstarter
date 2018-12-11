@@ -1,0 +1,9 @@
+{
+  "name": "basicstarter",
+  "version": "0.0.0",
+  "description": "BasicStarter is an easy to use framework to get started with WordPress plugin development.",
+  "main": "index.js",
+  "repository": "https://github.com/kingdomandi/basicstarter.git",
+  "author": "William James McIntyre",
+  "license": "MIT"
+}
